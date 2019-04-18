@@ -4,8 +4,9 @@ import { actors } from '../data';
 const Actors = () => {
   return (
     <div>
-      {/*{code here}*/}
+      {<h1><h1/>}
     </div>
+
   );
 };
 
